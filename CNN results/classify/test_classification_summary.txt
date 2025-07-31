@@ -1,0 +1,17 @@
+Images in Test Normal basket: 6
+Images in Test Osteoporotic basket: 7
+
+Osteoporosis Likelihoods:
+Image: WhatsApp Image 2025-07-11 at 21.57.28_0908f7d3.jpg, Likelihood of Osteoporosis: 65.31%
+Image: WhatsApp Image 2025-07-11 at 21.57.29_a0d0b446.jpg, Likelihood of Osteoporosis: 13.41%
+Image: WhatsApp Image 2025-06-10 at 11.57.08_b5c12c99.jpg, Likelihood of Osteoporosis: 42.72%
+Image: WhatsApp Image 2025-06-10 at 11.58.45_9c930373.jpg, Likelihood of Osteoporosis: 97.72%
+Image: WhatsApp Image 2025-06-02 at 10.04.07_c60675b7.jpg, Likelihood of Osteoporosis: 9.17%
+Image: WhatsApp Image 2025-06-10 at 11.56.21_bcf20508.jpg, Likelihood of Osteoporosis: 59.84%
+Image: WhatsApp Image 2025-07-11 at 21.57.31_93900474.jpg, Likelihood of Osteoporosis: 95.78%
+Image: WhatsApp Image 2025-06-02 at 10.04.06_0d69f4e7.jpg, Likelihood of Osteoporosis: 18.30%
+Image: WhatsApp Image 2025-07-11 at 21.57.30_9d156431.jpg, Likelihood of Osteoporosis: 55.99%
+Image: WhatsApp Image 2025-06-02 at 10.04.05_c886d78a.jpg, Likelihood of Osteoporosis: 13.00%
+Image: WhatsApp Image 2025-07-11 at 21.57.29_276b612f.jpg, Likelihood of Osteoporosis: 59.23%
+Image: WhatsApp Image 2025-07-11 at 21.57.28_ab199548.jpg, Likelihood of Osteoporosis: 66.29%
+Image: WhatsApp Image 2025-06-02 at 10.04.08_229ca28b.jpg, Likelihood of Osteoporosis: 21.16%
